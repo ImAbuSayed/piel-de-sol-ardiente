@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel de sol ardiente
+
+This log tracks the cryptographic history and versioning for the song **Piel de sol ardiente** (piel-de-sol-ardiente).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T03:36:09.189334 | `v1` | `582919e2d65774df21ae8737324b0c92f628ad7dd526567229cb9473277a5056` | `837d9336b7871cc3c0a37906a76fae59c3082293c76e308afef7f88367ccf812` | `2026-06-21_piel-de-sol-ardiente-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-sol-ardiente/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Piel de sol ardiente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-sol-ardiente/) |
+| **Get License** | [Official Music Licensing for Piel de sol ardiente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-sol-ardiente/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `582919e2d65774df21ae8737324b0c92f628ad7dd526567229cb9473277a5056` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
