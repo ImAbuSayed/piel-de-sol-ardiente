@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-sol-ardiente/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Piel de sol ardiente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-sol-ardiente/) |
+| **Get License** | [Obtain a Music License for Piel de sol ardiente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-sol-ardiente/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Piel de sol ardiente bajo la luna
+> Tu calor me quema, es una locura
+> Bailamos lentos en la noche oscura
+> Tu boca es fuego, tú eres mi dulce tortura
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
